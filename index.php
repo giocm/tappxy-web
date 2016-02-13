@@ -4,7 +4,9 @@
   include 'header.php';
  ?>
   <body>
-    hey
+    <main class="principal">
+      
+    </main>
 
   <?php
     include 'incluir/footer.php';
